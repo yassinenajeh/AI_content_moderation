@@ -1,0 +1,7 @@
+customtkinter == 6.0.0
+detoxify == 0.5.2
+torch == 2.13.0
+transformers == 5.14.1
+sentencepiece == 0.2.2
+tiktoken == 0.13.0
+protobuf == 7.35.1
